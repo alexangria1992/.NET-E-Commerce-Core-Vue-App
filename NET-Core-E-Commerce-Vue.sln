@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET-Core-E-Commerce-Vue", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Domain", "ShopDomain\Shop.Domain.csproj", "{53D44169-4023-4F94-8B48-5AC5BC143FAE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopApplication", "ShopApplication\ShopApplication.csproj", "{914EE0EA-D168-41C7-8B04-B5597D678940}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Application", "ShopApplication\Shop.Application.csproj", "{914EE0EA-D168-41C7-8B04-B5597D678940}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Database", "Shop.Database\Shop.Database.csproj", "{A06F70C7-6B20-4EEB-9324-833C11A53CC2}"
 EndProject
